@@ -1,5 +1,6 @@
 <div align="center">
   <img src="./assets/banner.jpg" alt="Anish Randhawa banner" width="100%">
+
   <h1>Hi, I'm Anish Randhawa 👋</h1>
   <h3>Android Developer • AI/ML Explorer</h3>
   <p>
@@ -17,30 +18,36 @@
 
 ---
 
-## About Me
+<div align="center">
+  <h2>About Me</h2>
+</div>
 
-<table>
+<table width="100%" align="center">
   <tr>
-    <td width="60%" valign="top">
-      I'm a Computer Science Engineering student focused on native Android development and AI/ML.
-      <br><br>
-      I enjoy building complete products — from interface design and backend integration to authentication, APIs, and polished user experiences.
-      <br><br>
-      My current interests include:
-      <br>
-      <b>Android • Kotlin • Jetpack Compose</b>
-      <br>
-      <b>Python • Machine Learning • LLMs</b>
+    <td width="60%" valign="middle" align="left">
+      <p>
+        I'm a Computer Science Engineering student focused on native Android development and AI/ML.
+      </p>
+      <p>
+        I enjoy building complete products — from interface design and backend integration to authentication, APIs, and polished user experiences.
+      </p>
+      <p><strong>Currently exploring:</strong></p>
+      <p>
+        <strong>Android • Kotlin • Jetpack Compose</strong><br>
+        <strong>Python • Machine Learning • LLMs</strong>
+      </p>
     </td>
-    <td width="40%" align="center">
-      <img src="./assets/profile.jpg" width="220" alt="Anish Randhawa profile" style="border-radius: 18px;">
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/profile.jpg" width="220" alt="Anish Randhawa profile" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
     </td>
   </tr>
 </table>
 
 ---
 
-## Focus Areas
+<div align="center">
+  <h2>Focus Areas</h2>
+</div>
 
 <p align="center">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -53,17 +60,19 @@
 
 ---
 
-## Selected Work
+<div align="center">
+  <h2>Selected Work</h2>
+</div>
 
-<table>
+<table width="100%" align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="padding: 12px;">
       <img src="./assets/owee.png" width="90" alt="Owee logo">
       <h3>OWEE</h3>
       <p>UPI-first expense sharing for friends and groups.</p>
       <p><sub>Kotlin • Jetpack Compose • Supabase</sub></p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="padding: 12px;">
       <img src="./assets/docuvio.png" width="90" alt="Docuvio logo">
       <h3>DOCUVIO</h3>
       <p>A printing marketplace connecting students with local print shops.</p>
@@ -74,7 +83,9 @@
 
 ---
 
-## Tech Stack
+<div align="center">
+  <h2>Tech Stack</h2>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,python,supabase,postgres,git,github,androidstudio,vscode&perline=9" alt="Technology stack" />
@@ -92,15 +103,17 @@
 
 ---
 
-## Learning & Approach
+<div align="center">
+  <h2>Learning & Approach</h2>
+</div>
 
-<table>
+<table width="100%" align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="padding: 12px;">
       <h3>Currently Learning</h3>
       <p>Machine Learning<br>LLMs<br>RAG<br>Agentic AI</p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="padding: 12px;">
       <h3>How I Work</h3>
       <p>Build first.<br>Understand deeply.<br>Keep improving.</p>
     </td>
@@ -109,7 +122,9 @@
 
 ---
 
-## Let’s Connect
+<div align="center">
+  <h2>Let’s Connect</h2>
+</div>
 
 <p align="center">
   <a href="https://github.com/AnishRandhawa21">
