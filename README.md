@@ -61,26 +61,27 @@
 ---
 
 <div align="center">
-  <h2>Git Activity</h2>
+  <h2>What I'm Building</h2>
 </div>
 
 <table width="100%" align="center">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="100%" />
+    <td width="33%" align="center" valign="top" style="padding: 18px; border: 1px solid #2f3b52; border-radius: 18px; background: #101827;">
+      <h3>📱 Android</h3>
+      <p>Clean, user-first mobile experiences with Kotlin and Jetpack Compose.</p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishRandhawa21&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="100%" />
+    <td width="33%" align="center" valign="top" style="padding: 18px; border: 1px solid #2f3b52; border-radius: 18px; background: #101827;">
+      <h3>🤖 AI & ML</h3>
+      <p>Exploring machine learning, LLMs, and real-world AI-powered products.</p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%" />
+    <td width="33%" align="center" valign="top" style="padding: 18px; border: 1px solid #2f3b52; border-radius: 18px; background: #101827;">
+      <h3>🚀 Products</h3>
+      <p>Turning ideas into software that solves real problems and feels useful.</p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffffff&hide_border=true" width="92%" alt="Contribution graph" />
-</p>
+<p align="center"><sub>Build useful things. Learn fast. Ship consistently.</sub></p>
 
 ---
 
