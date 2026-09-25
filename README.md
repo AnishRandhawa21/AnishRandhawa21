@@ -1,160 +1,185 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="120" alt="Anish Randhawa">
+<img src="./assets/banner.png" alt="Anish Randhawa — developer banner" width="100%">
 
-# ANISH RANDAWHA
+<br><br>
 
-**Android Developer · AI/ML Explorer**
+ANISH RANDAWHA
 
-Building products, learning systems, and occasionally breaking both.
+Android Developer · AI/ML Explorer
+
+Building products, learning systems, and shipping ideas.
 
 <br>
 
 <a href="https://github.com/AnishRandhawa21">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/anish-randhawa21/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:randhawa.anish0@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
 <br>
 
----
-
 <table>
 <tr>
 <td width="55%" valign="top">
 
-## About
+ABOUT
 
-I'm a Computer Science Engineering student focused on **native Android development** and **AI/ML**.
+Computer Science Engineering student focused on native Android development and AI/ML.
 
-I enjoy building complete products — from the interface and backend to authentication, APIs, payments, and deployment.
-
-Currently exploring how traditional software development and AI can work together.
+I enjoy building complete products — from UI and backend to authentication, APIs, payments, and deployment.
 
 </td>
 
 <td width="45%" valign="top">
 
-## Current Focus
+CURRENTLY
 
-```text
-Android Development
-        ↓
+Android
+   ↓
 Machine Learning
-        ↓
+   ↓
 LLMs
-        ↓
+   ↓
 RAG
-        ↓
+   ↓
 Agentic AI
 
-</td> </tr> </table>
-Selected Work
-<table> <tr> <td width="33%" valign="top"> <div align="center"> <img src="./assets/owee.png" width="85" alt="Owee">
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+SELECTED WORK
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<img src="./assets/owee.png" width="90" alt="Owee logo">
+
 Owee
 
 UPI-first expense sharing for friends and groups.
 
 <br>
 
-Kotlin Compose
-Supabase MVVM
+<sub>Kotlin · Compose · Supabase · MVVM</sub>
 
-<br><br>
+</td>
 
-<a href="https://github.com/AnishRandhawa21"> View project → </a> </div> </td> <td width="33%" valign="top"> <div align="center"> <img src="./assets/docuvio.png" width="85" alt="Docuvio">
+<td width="33%" align="center" valign="top">
+
+<img src="./assets/docuvio.png" width="90" alt="Docuvio logo">
+
 Docuvio
 
-A printing marketplace connecting students with local print shops.
+Printing marketplace connecting students with local print shops.
 
 <br>
 
-Kotlin Compose
-Supabase Razorpay
+<sub>Kotlin · Compose · Supabase · Razorpay</sub>
 
-<br><br>
+</td>
 
-<a href="https://github.com/AnishRandhawa21"> View project → </a> </div> </td> <td width="33%" valign="top"> <div align="center"> <img src="./assets/remind.png" width="85" alt="ReMind+">
+<td width="33%" align="center" valign="top">
+
+<img src="./assets/remind.png" width="90" alt="ReMind+ logo">
+
 ReMind+
 
 Offline-first reminders and notes with cloud synchronization.
 
 <br>
 
-Kotlin Compose
-Room Supabase
+<sub>Kotlin · Compose · Room · Supabase</sub>
 
-<br><br>
+</td>
 
-<a href="https://github.com/AnishRandhawa21"> View project → </a> </div> </td> </tr> </table>
-Stack
-<table> <tr> <td valign="top" width="50%">
+</tr>
+</table>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+TECHNOLOGY
+
 Mobile
-<img src="https://skillicons.dev/icons?i=kotlin,android,gradle" height="40">
 
 Kotlin · Android · Jetpack Compose
 
-Material 3 · Navigation · MVVM
-
-</td> <td valign="top" width="50%">
 AI / ML
-<img src="https://skillicons.dev/icons?i=python" height="40">
 
-Python · Machine Learning
+Python · NumPy · Pandas · Scikit-learn
 
-NumPy · Pandas · Scikit-learn
-
-</td> </tr> <tr> <td valign="top">
 Backend
-<img src="https://skillicons.dev/icons?i=supabase,postgresql" height="40">
 
-Supabase · PostgreSQL
+Supabase · PostgreSQL · REST APIs
 
-REST APIs · Authentication · Realtime
-
-</td> <td valign="top">
 Tools
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" height="40">
 
 Git · GitHub · Android Studio · VS Code
 
-</td> </tr> </table>
-What I'm Learning
-<div align="center">
+</td>
 
-Machine Learning   →  
-LLMs   →  
-RAG   →  
-Agentic AI
+<td width="50%" valign="top">
 
-</div>
-GitHub
-<div align="center">
+TOOLBOX
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="165" />
+<img src="https://skillicons.dev/icons?i=kotlin,android,python,postgres,supabase,git,github,androidstudio,vscode" alt="Technology icons">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="94%" />
+Exploring
+
+Machine Learning · LLMs · RAG · Agentic AI
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+GITHUB ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" height="160" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="160" alt="Top languages">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="92%" alt="GitHub contribution activity">
 
 </div>
+
 <div align="center">
-Let's build something.
-<a href="mailto:randhawa.anish0@gmail.com"> <img src="https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/anish-randhawa21/"> <img src="https://img.shields.io/badge/LinkedIn-58a6ff?style=flat-square&logo=linkedin&logoColor=white" /> </a>
+
+LET'S BUILD SOMETHING
+
+<a href="mailto:randhawa.anish0@gmail.com">Email</a>
+  ·  
+<a href="https://www.linkedin.com/in/anish-randhawa21/">LinkedIn</a>
+  ·  
+<a href="https://github.com/AnishRandhawa21">GitHub</a>
 
 <br><br>
 
 <sub>build · learn · ship · repeat</sub>
 
-</div> ```
+</div>
