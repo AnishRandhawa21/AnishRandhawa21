@@ -1,187 +1,90 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Pixel art developer banner" width="100%">
+# Anish Randhawa
 
-<br>
+**Android Developer · AI/ML Explorer**
 
-ANISH RANDAWHA
+Building useful software and exploring intelligent systems.
 
-Android Developer · AI/ML Explorer
-
-<p>
-  <a href="https://github.com/AnishRandhawa21">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AnishRandhawa21&style=flat-square&color=8CC84B&label=PROFILE+VIEWS" alt="Profile views">
-</p>
-
-Building useful products, exploring AI/ML, and turning ideas into working software.
+[![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=E6EDF3)](https://github.com/AnishRandhawa21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=E6EDF3)](https://www.linkedin.com/in/anish-randhawa21/)
+[![Email](https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=E6EDF3)](mailto:randhawa.anish0@gmail.com)
 
 </div>
 
-> whoami
+<br>
 
-I'm a Computer Science student focused on Android development and AI/ML.
+## About
 
-I enjoy building complete products rather than just isolated demos — from the UI and backend to authentication, payments, OCR, synchronization, and deployment.
+Computer Science Engineering student focused on Android development, with a growing interest in AI/ML. I like building complete, working products — UI, backend, and everything in between — rather than isolated demos.
 
-Currently spending most of my time with:
+<br>
 
-📱 Native Android development
-
-🧠 Machine Learning
-
-🤖 LLMs & Generative AI
-
-🔎 RAG systems
-
-⚙️ Backend & API integration
-
-🧩 Data Structures & Algorithms
-
-> featured_projects
+## Featured Projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-⚡ Owee
-
-UPI-first expense sharing app for friends and groups.
-
-Stack
-
-Kotlin Jetpack Compose
-Supabase MVVM
-
+<td width="33%" align="center">
+<img src="./assets/owee.png" alt="Owee logo" width="72"><br><br>
+<b>Owee</b><br>
+<sub>UPI-first bill-splitting and shared expense tracking for friends and groups.</sub><br><br>
+<sub><b>Kotlin · Jetpack Compose · Supabase · MVVM</b></sub>
 </td>
-
-<td width="33%" valign="top">
-
-🖨️ Docuvio
-
-Printing marketplace connecting students with local print shops.
-
-Stack
-
-Kotlin Jetpack Compose
-Supabase Razorpay
-
+<td width="33%" align="center">
+<img src="./assets/docuvio.png" alt="Docuvio logo" width="72"><br><br>
+<b>Docuvio</b><br>
+<sub>Printing marketplace connecting students with local print shops.</sub><br><br>
+<sub><b>Kotlin · Jetpack Compose · Supabase · Razorpay</b></sub>
 </td>
-
-<td width="33%" valign="top">
-
-⏰ ReMind+
-
-Offline-first reminders and notes with cloud synchronization.
-
-Stack
-
-Kotlin Compose
-Room Supabase
-
+<td width="33%" align="center">
+<img src="./assets/remind.png" alt="ReMind+ logo" width="72"><br><br>
+<b>ReMind+</b><br>
+<sub>Offline-first reminders and notes with cloud sync.</sub><br><br>
+<sub><b>Kotlin · Jetpack Compose · Room · Supabase</b></sub>
 </td>
 </tr>
 </table>
 
-> tech_stack
+<br>
 
-Mobile
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,gradle" alt="Mobile technologies">
-</p>
+**Mobile**
+Kotlin · Android · Jetpack Compose
 
-Jetpack Compose · Material 3 · Navigation Compose · MVVM
+**AI / ML**
+Python · NumPy · Pandas · Scikit-learn · Machine Learning
 
-AI / ML
+**Backend**
+Supabase · PostgreSQL · REST APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python">
-</p>
+**Currently exploring**
+LLMs · RAG · Agentic AI
 
-NumPy · Pandas · Scikit-learn · Machine Learning · LLMs · RAG
+<br>
 
-Backend / Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase" alt="Backend technologies">
-</p>
-
-REST APIs · Authentication · Realtime · PostgreSQL
-
-Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Development tools">
-</p>
-
-> currently_exploring
-
-Machine Learning
-      ↓
-LLMs
-      ↓
-RAG
-      ↓
-Agentic AI
-      ↓
-Building useful AI-powered products
-
-> things_i_like_building
-
-[ mobile apps ]       [ AI/ML systems ]
-       │                      │
-       ├── Android            ├── ML models
-       ├── Compose            ├── LLM applications
-       ├── Supabase           ├── RAG pipelines
-       └── APIs               └── AI agents
-
-> github_stats
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/AnishRandhawa21">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8CC84B&icon_color=D6B36A&text_color=E6EDF3&ring_color=8CC84B" alt="GitHub statistics">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8CC84B&icon_color=8CC84B&text_color=E6EDF3" alt="GitHub stats" height="160">
 
-<a href="https://github.com/AnishRandhawa21">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&hide_border=true&bg_color=0D1117&title_color=8CC84B&text_color=E6EDF3" alt="Top languages">
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&bg_color=0D1117&color=E6EDF3&line=8CC84B&point=E6EDF3&hide_border=true" alt="Contribution activity" width="100%">
 
 </div>
 
-> contribution_graph
+<br>
 
-<div align="center">
+## Currently Learning
 
-<a href="https://github.com/AnishRandhawa21">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&bg_color=0D1117&color=E6EDF3&line=8CC84B&point=D6B36A&area=true&hide_border=true" width="95%" alt="GitHub activity graph">
-</a>
+Machine Learning → LLMs → RAG → Agentic AI
 
-</div>
+<br>
 
-> let's_connect
+## Connect
 
-<div align="center">
-
-<a href="https://github.com/AnishRandhawa21">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/anish-randhawa21/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:randhawa.anish0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-────────────────────────────────────────────
-        build  •  learn  •  ship  •  repeat
-────────────────────────────────────────────
+[![GitHub](https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/AnishRandhawa21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=E6EDF3)](https://www.linkedin.com/in/anish-randhawa21/)
+[![Email](https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=E6EDF3)](mailto:randhawa.anish0@gmail.com)
 
 </div>
