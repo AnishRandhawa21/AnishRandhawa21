@@ -64,17 +64,22 @@
   <h2>Git Activity</h2>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishRandhawa21&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="100%" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishRandhawa21&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="100%" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffffff&hide_border=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffffff&hide_border=true" width="92%" alt="Contribution graph" />
 </p>
 
 ---
