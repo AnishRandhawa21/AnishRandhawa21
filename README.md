@@ -28,30 +28,33 @@ ABOUT
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td width="58%" valign="middle">
 
 I'm a Computer Science Engineering student focused on native Android development and AI/ML.
 
 I enjoy building complete products — designing the interface, connecting the backend, handling authentication and APIs, and turning an idea into something people can actually use.
 
-<br>
+<br><br>
 
 Currently focused on
 
 Android   Kotlin   Jetpack Compose
+
 Python   Machine Learning   LLMs
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="./assets/profile-art.png" width="250" alt="Profile artwork">
+<img src="./assets/profile.jpg" width="240" alt="Profile artwork">
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <div align="center">
 
@@ -59,12 +62,12 @@ SELECTED WORK
 
 <br>
 
-<table>
+<table align="center" width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<img src="./assets/owee.png" width="100" alt="Owee">
+<img src="./assets/owee.png" width="100" alt="Owee logo">
 
 <br><br>
 
@@ -80,9 +83,9 @@ Kotlin&nbsp;&nbsp;·&nbsp;&nbsp;Jetpack Compose&nbsp;&nbsp;·&nbsp;&nbsp;Supabas
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<img src="./assets/docuvio.png" width="100" alt="Docuvio">
+<img src="./assets/docuvio.png" width="100" alt="Docuvio logo">
 
 <br><br>
 
@@ -111,23 +114,26 @@ TECHNOLOGIES
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=kotlin,android,python,supabase,postgres,git,github,androidstudio,vscode&perline=9" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=kotlin,python,supabase,postgres,git,github,androidstudio,vscode&perline=9" alt="Technology stack">
 
 <br><br>
 
 Kotlin   Android   Jetpack Compose   Python
+
 Supabase   PostgreSQL   Git   Machine Learning
 
 </div>
 
 <br>
 
-<table>
+<table align="center" width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 LEARNING
+
+<br>
 
 Machine Learning
 LLMs
@@ -136,9 +142,11 @@ Agentic AI
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 APPROACH
+
+<br>
 
 Build first.
 Understand deeply.
