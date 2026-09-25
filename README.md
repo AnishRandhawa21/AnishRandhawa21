@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="./assets/banner1.jpg" width="100%" alt="Anish Randhawa">
+<img src="./assets/banner.jpg" alt="Anish Randhawa" width="100%">
 
 <br><br>
 
-Hi, I'm Anish
+ANISH RANDAWHA
 
 Android Developer · AI/ML Explorer
 
-Building useful products and exploring intelligent systems.
+Building useful software and exploring intelligent systems.
 
 <br>
 
-
-
-
+<a href="https://github.com/AnishRandhawa21">GitHub</a>
+  ·  
+<a href="https://www.linkedin.com/in/anish-randhawa21/">LinkedIn</a>
+  ·  
+<a href="mailto:randhawa.anish0@gmail.com">Email</a>
 
 </div>
 
@@ -22,39 +24,30 @@ Building useful products and exploring intelligent systems.
 
 <div align="center">
 
-About Me
+ABOUT
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="middle">
 
-I'm a Computer Science Engineering student focused on building native Android applications and learning AI/ML.
+I'm a Computer Science Engineering student focused on native Android development and AI/ML.
 
-I like working on complete products — from UI and backend to authentication, APIs, payments, OCR, and deployment.
-
-Currently
-
-Building with Kotlin + Jetpack Compose
-
-Learning Machine Learning
-
-Exploring LLMs and RAG
-
-Experimenting with AI-powered applications
-
-Improving my DSA & problem solving
+I enjoy building complete products — designing the interface, connecting the backend, handling authentication and APIs, and turning an idea into something people can actually use.
 
 <br>
 
-Build. Learn. Ship. Repeat.
+Currently focused on
+
+Android   Kotlin   Jetpack Compose
+Python   Machine Learning   LLMs
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center">
 
-<img src="./assets/profile-art.png" width="280" alt="Profile illustration">
+<img src="./assets/profile-art.png" width="250" alt="Profile artwork">
 
 </td>
 </tr>
@@ -62,36 +55,46 @@ Build. Learn. Ship. Repeat.
 
 <div align="center">
 
-Featured Projects
+SELECTED WORK
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/owee.png" width="90" alt="Owee logo">
+<img src="./assets/owee.png" width="100" alt="Owee">
 
-Owee
+<br><br>
+
+OWEE
 
 UPI-first expense sharing for friends and groups.
 
-<br>
+<br><br>
 
-Kotlin · Jetpack Compose · Supabase
+<sub>
+Kotlin&nbsp;&nbsp;·&nbsp;&nbsp;Jetpack Compose&nbsp;&nbsp;·&nbsp;&nbsp;Supabase
+</sub>
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/docuvio.png" width="90" alt="Docuvio logo">
+<img src="./assets/docuvio.png" width="100" alt="Docuvio">
 
-Docuvio
+<br><br>
 
-Printing marketplace connecting students with local print shops.
+DOCUVIO
 
-<br>
+A printing marketplace connecting students with local print shops.
 
-Kotlin · Jetpack Compose · Supabase · Razorpay
+<br><br>
+
+<sub>
+Kotlin&nbsp;&nbsp;·&nbsp;&nbsp;Jetpack Compose&nbsp;&nbsp;·&nbsp;&nbsp;Supabase&nbsp;&nbsp;·&nbsp;&nbsp;Razorpay
+</sub>
 
 </td>
 
@@ -100,62 +103,74 @@ Kotlin · Jetpack Compose · Supabase · Razorpay
 
 </div>
 
+<br>
+
 <div align="center">
 
-Tech Stack
+TECHNOLOGIES
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=kotlin,android,python,supabase,postgres,git,github,androidstudio,vscode&perline=9" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=kotlin,android,python,supabase,postgres,git,github,androidstudio,vscode&perline=9" alt="Technology stack">
 
 <br><br>
 
-Android · Kotlin · Jetpack Compose · MVVM
-
-AI / ML · Python · NumPy · Pandas · Scikit-learn
-
-Backend · Supabase · PostgreSQL · REST APIs
+Kotlin   Android   Jetpack Compose   Python
+Supabase   PostgreSQL   Git   Machine Learning
 
 </div>
 
-<div align="center">
+<br>
 
-Currently Exploring
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+LEARNING
+
+Machine Learning
+LLMs
+RAG
+Agentic AI
+
+</td>
+
+<td width="50%" align="center">
+
+APPROACH
+
+Build first.
+Understand deeply.
+Keep improving.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-Machine Learning   →   LLMs   →   RAG   →   Agentic AI
-
-</div>
-
 <div align="center">
 
-GitHub Stats
+LET'S CONNECT
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="165" alt="Top languages">
+<a href="https://github.com/AnishRandhawa21">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anish-randhawa21/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:randhawa.anish0@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="94%" alt="GitHub activity graph">
-
-</div>
-
-<div align="center">
-
-Connect
-
-<br>
-
-
-
-
-
-<br><br>
-
-<sub>Thanks for stopping by.</sub>
+<sub>build · learn · ship</sub>
 
 </div>
