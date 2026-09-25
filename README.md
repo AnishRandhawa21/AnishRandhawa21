@@ -61,25 +61,21 @@
 ---
 
 <div align="center">
-  <h2>Selected Work</h2>
+  <h2>Git Activity</h2>
 </div>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding: 12px;">
-      <img src="./assets/owee.png" width="90" alt="Owee logo">
-      <h3>OWEE</h3>
-      <p>UPI-first expense sharing for friends and groups.</p>
-      <p><sub>Kotlin • Jetpack Compose • Supabase</sub></p>
-    </td>
-    <td width="50%" align="center" valign="top" style="padding: 12px;">
-      <img src="./assets/docuvio.png" width="90" alt="Docuvio logo">
-      <h3>DOCUVIO</h3>
-      <p>A printing marketplace connecting students with local print shops.</p>
-      <p><sub>Kotlin • Jetpack Compose • Supabase • Razorpay</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnishRandhawa21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishRandhawa21&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishRandhawa21&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffffff&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRandhawa21&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
